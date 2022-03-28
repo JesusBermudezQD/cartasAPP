@@ -1,0 +1,13 @@
+.card{
+    height: 100px;
+    width: 100px;
+    align-self: center;
+  justify-self: center;
+}
+
+img{
+    background: white;
+    height: 100px;
+    width: 100px;    
+}
+
